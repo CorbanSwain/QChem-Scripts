@@ -1,0 +1,6 @@
+# Emacs Files
+# FIXME! - Thish should go in user specific git ignore location
+\#*
+.#*
+*~
+~*
